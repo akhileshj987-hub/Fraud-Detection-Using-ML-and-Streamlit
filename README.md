@@ -126,13 +126,6 @@ Open the local address shown in the terminal (normally `http://localhost:8501`) 
 - Evaluated the model using precision, recall, F1-score, confusion matrix, and accuracy.
 - Deployed the trained model as an interactive Streamlit application.
 
-## 🔮 Suggested next steps
-
-- Compare the baseline with tree-based models such as Random Forest, XGBoost, or LightGBM.
-- Tune the classification threshold to balance fraud recall against false-positive alerts.
-- Use precision-recall curves, PR-AUC, and cost-based metrics rather than accuracy alone.
-- Add the engineered balance-difference features to the deployed pipeline and compare results.
-- Add unit tests, dependency pinning, model versioning, and input validation before production use.
 
 ## ⚠️ Disclaimer
 
